@@ -1,0 +1,1 @@
+qe = stiffness_k\stiffness_p;
